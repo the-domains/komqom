@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KoMQoM]]></title>
-        <description><![CDATA[KoMQoM]]></description>
+        <title><![CDATA[KoMQoM - Worlds Finest Time Trial]]></title>
+        <description><![CDATA[KoMQoM - Worlds Finest Time Trial]]></description>
         <link>https://thegrid.ai/komqom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 17:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 17:11:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/komqom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a761882d-5f81-48d5-bee3-2acc86b8c04c.jpg">]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b63433e6-5526-400e-8b22-fc6c0112b268.jpg">]]></description>
             <link>https://thegrid.ai/komqom/00e63dda-8f14-4fc4-88b2-ebfa49c8c9a8/index.html</link>
             <guid isPermaLink="false">00e63dda-8f14-4fc4-88b2-ebfa49c8c9a8</guid>
-            <pubDate>Sun, 24 Jan 2016 17:03:45 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 17:11:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
