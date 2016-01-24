@@ -1,6 +1,6 @@
 name: KoMQoM
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25155
 typography_spectrum: 0.3502
 title: KoMQoM - Worlds Finest Time Trial
 cta:
@@ -22,8 +22,8 @@ color:
     - '#c3b2a2'
     - '#e99c00'
     - '#e65a0a'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.20907442248426378
   saturation: 0.75
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
